@@ -1,2 +1,2 @@
 # cosmic-potion
-Jogo de fantasia com escolhas em texto baseado em Python
+A fantasy text based game, wrote with Python
